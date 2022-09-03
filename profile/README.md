@@ -27,7 +27,13 @@ HTML5, CSS3 and JavaScript building blocks of Web pages.
 <br />
 **Bootstrap:** is a CSS framework. 
 <br />
-**JQuery:** is a javaScript library.
+**JQuery:** is a JavaScript library.
+<br />
+**Angular:** is a TypeScript Framework.
+<br />
+**React:** is A JavaScript library for building user interfaces.
+<br />
+**Vue:** is Progressive JavaScript Framework.
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css3]
@@ -36,21 +42,9 @@ HTML5, CSS3 and JavaScript building blocks of Web pages.
 [<img align="left" alt="bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">][bootstrap]
 
 [<img align="left" alt="jquery" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" >][jquery]
-
-
-<!--
-
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][sass]
-[<img align="left" alt="jquery" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" >][jquery]
-[<img align="left" alt="bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">][bootstrap]
-
-<br />
-<br />
-
--->
-
-
-
+[<img align="left" alt="angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png">][angular]
+[<img align="left" alt="react" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">][react]
+[<img align="left" alt="react" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">][vue]
 
 <!-- Languages -->
 
@@ -70,6 +64,12 @@ HTML5, CSS3 and JavaScript building blocks of Web pages.
 [go]: https://golang.org/
 [r]: https://www.r-project.org/
 [bootstrap]: https://getbootstrap.com/
+
+<!-- TypeScript/JavaScript Frameworks -->
+
+[angular]: https://angular.io/
+[react]: https://reactjs.org/
+[vue]: https://vuejs.org/
 
 <!--
 
