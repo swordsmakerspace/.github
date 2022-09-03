@@ -11,17 +11,32 @@ The most core tools for coding are here:
 
 <br />
 
-
-
 ## Languages:
 
-### Web Development:
+### Web Development, Libraries & Frameworks:
+
+HTML5, CSS3 and JavaScript building blocks of Web pages.
+
+**HTML5:** is the content.
+<br />
+**CSS3:** is the Style Sheets.
+<br />
+**JavaScript:** is the behavior of web sites.
+<br />
+**Sass:** is a preprocessor CSS scripting language.
+<br />
+**Bootstrap:** is a CSS framework. 
+<br />
+**JQuery:** is a javaScript library.
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css3]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][sass]
 [<img align="left" alt="bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">][bootstrap]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
+
+[<img align="left" alt="jquery" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" >][jquery]
+
 
 <!--
 
@@ -50,7 +65,7 @@ The most core tools for coding are here:
 [fortran]: https://github.com/paulmcquad/Fortran
 [java]: https://github.com/paulmcquad/Java
 [sass]: https://github.com/swordsmakerspace/SASS
-[jquery]: https://github.com/paulmcquad/JQuery
+[jquery]: https://github.com/swordsmakerspace/JQuery
 [perl]: https://github.com/paulmcquad/Perl
 [go]: https://golang.org/
 [r]: https://www.r-project.org/
