@@ -35,6 +35,8 @@ HTML5, CSS3 and JavaScript building blocks of Web pages.
 <br />
 **React:** is A JavaScript library for building user interfaces.
 <br />
+**Redux:** Redux is a predictable state container for JavaScript apps.
+<br />
 **Vue:** is Progressive JavaScript Framework.
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
@@ -47,6 +49,11 @@ HTML5, CSS3 and JavaScript building blocks of Web pages.
 [<img align="left" alt="typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">][typescript]
 [<img align="left" alt="angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png">][angular]
 [<img align="left" alt="react" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">][react]
+
+
+[<img align="left" alt="redux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png">][redux]
+
+
 [<img align="left" alt="vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">][vue]
 
 <br />
@@ -90,6 +97,7 @@ HTML5, CSS3 and JavaScript building blocks of Web pages.
 [typescript]: https://www.typescriptlang.org/
 [angular]: https://angular.io/
 [react]: https://reactjs.org/
+[redux]: https://redux.js.org/
 [vue]: https://vuejs.org/
 
 <!-- Backend Tools -->
