@@ -33,7 +33,7 @@ Before we code anything we need to track/publish our code changes.
 
 ### Front End Developer:
 
-HTML5, CSS3 and JavaScript building blocks of Web pages.
+A Front End Developer writes HTML5, CSS3 and JavaScript code to build blocks of Web pages.
 
 **HTML5:** is the content.
 <br />
@@ -79,18 +79,16 @@ HTML5, CSS3 and JavaScript building blocks of Web pages.
 
 ### Back End Developer:
 
+Back End developers are involved in data storage, security, and other server-side functions that you cannot see.
 
 **Node.js:** is an open-source, cross-platform, back-end JavaScript runtime environment.
 <br />
+**Java:** is a high-level, class-based, object-oriented programming language. (Not JavaScript).
 
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][Node.js]
 
 
 <br />
-
-## Java:
-
-### Junior Developer:
 
 <!-- Languages -->
 
