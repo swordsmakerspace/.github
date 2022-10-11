@@ -4,7 +4,20 @@ We love Science, technology, engineering, and mathematics (STEM)
 
 We will try to teach key skills on (STEM). Read this book: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 
-The most core tools for coding are here:
+## Continuous Integration/Delivery - (CI/CD) Tools:
+
+Before we code anything we need to track/publish our code changes. 
+
+**Git:** is the tool to track/publish changes in code repositories on sites like Github.
+<br />
+**Github:** is an Internet hosting service for software development and version control using Git.
+<br />
+**Gitlab:** is another Internet hosting service for software development and version control using Git.
+<br />
+**Bitbucket:** is a Git-based source code repository hosting service owned by Atlassian. 
+<br />
+**Visual Studio Code:** is a code editor to make our changes.
+<br />
 
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://github.com/git/git)
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
