@@ -31,7 +31,7 @@ Before we code anything we need to track/publish our code changes.
 
 ## Full Stack Developer - (Front/Back End Developer):
 
-### Front End Developer:
+### Front End Developer/ Web Developer:
 
 A Front End Developer writes HTML5, CSS3 and JavaScript code to build blocks of Web pages.
 
@@ -77,15 +77,22 @@ A Front End Developer writes HTML5, CSS3 and JavaScript code to build blocks of 
 
 <br />
 
-### Back End Developer:
+### Back End Developer/ Database Engineer:
 
 Back End developers are involved in data storage, security, and other server-side functions that you cannot see.
 
 **Node.js:** is an open-source, cross-platform, back-end JavaScript runtime environment.
 <br />
 **Java:** is a high-level, class-based, object-oriented programming language. (Not JavaScript).
+<br />
+**Python** is a high-level, general-purpose programming language.
+<br />
+**SQL** 
 
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][Node.js]
+[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" />][Java]
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][Python]
+
 
 
 <br />
@@ -120,6 +127,9 @@ Back End developers are involved in data storage, security, and other server-sid
 
 <!-- Backend Tools -->
 [Node.js]: https://nodejs.org/en/
+[Java]: https://www.java.com/en/
+[Python]: https://www.python.org/
+
 
 <!--
 
