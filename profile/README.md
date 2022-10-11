@@ -94,7 +94,20 @@ Back End developers are involved in data storage, security, and other server-sid
 [<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
 [<img align="left" alt="sql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
 
+<br />
 
+#### Python web frameworks:
+
+**Flask:** is a micro web framework written in Python.
+<br />
+**Django:** is a high-level Python web framework that encourages rapid development and clean, pragmatic design. 
+<br />
+**Tornado:** is a Python web framework and asynchronous networking library, originally developed at FriendFeed.
+<br />
+
+[<img align="left" alt="flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />][flask]
+[<img align="left" alt="django" width="26px" src="https://raw.githubusercontent.com/github/explore/7456fdff59816d37ef383a6c8f32a26ff7332db2/topics/django/django.png" />][django]
+[<img align="left" alt="tornado" width="26px" src="https://avatars.githubusercontent.com/u/7468980?s=200&v=4" />][tornado]
 
 <br />
 
@@ -131,6 +144,11 @@ Back End developers are involved in data storage, security, and other server-sid
 [java]: https://www.java.com/en/
 [python]: https://www.python.org/
 [sql]: https://en.wikipedia.org/wiki/SQL
+
+<!-- Python Web Frameworks -->
+[flask]: https://flask.palletsprojects.com/en/2.2.x/
+[django]: https://www.djangoproject.com/
+[tornado]: https://www.tornadoweb.org/en/stable/
 
 <!--
 
