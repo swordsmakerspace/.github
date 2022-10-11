@@ -38,6 +38,9 @@ HTML5, CSS3 and JavaScript building blocks of Web pages.
 **Redux:** Redux is a predictable state container for JavaScript apps.
 <br />
 **Vue:** is Progressive JavaScript Framework.
+<br />
+**Babel:** is a JavaScript compiler.
+
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css3]
@@ -49,12 +52,10 @@ HTML5, CSS3 and JavaScript building blocks of Web pages.
 [<img align="left" alt="typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">][typescript]
 [<img align="left" alt="angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png">][angular]
 [<img align="left" alt="react" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">][react]
-
-
 [<img align="left" alt="redux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png">][redux]
-
-
 [<img align="left" alt="vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">][vue]
+[<img align="left" alt="babel" width="26px" src="https://raw.githubusercontent.com/github/explore/cb39e2385dfcec8a661d01bfacff6b1e33bbaa9d/topics/babel/babel.png">][babel]
+
 
 <br />
 
@@ -99,6 +100,7 @@ HTML5, CSS3 and JavaScript building blocks of Web pages.
 [react]: https://reactjs.org/
 [redux]: https://redux.js.org/
 [vue]: https://vuejs.org/
+[babel]: https://babeljs.io/
 
 <!-- Backend Tools -->
 [Node.js]: https://nodejs.org/en/
