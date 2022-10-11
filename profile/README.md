@@ -85,13 +85,14 @@ Back End developers are involved in data storage, security, and other server-sid
 <br />
 **Java:** is a high-level, class-based, object-oriented programming language. (Not JavaScript).
 <br />
-**Python** is a high-level, general-purpose programming language.
+**Python:** is a high-level, general-purpose programming language.
 <br />
-**SQL** 
+**SQL:** is a standardized programming language that is used to manage relational databases and perform various operations on the data in them.
 
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][Node.js]
-[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" />][Java]
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][Python]
+[<img align="left" alt="java" width="26px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" />][java]
+[<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
+[<img align="left" alt="sql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
 
 
 
@@ -127,9 +128,9 @@ Back End developers are involved in data storage, security, and other server-sid
 
 <!-- Backend Tools -->
 [Node.js]: https://nodejs.org/en/
-[Java]: https://www.java.com/en/
-[Python]: https://www.python.org/
-
+[java]: https://www.java.com/en/
+[python]: https://www.python.org/
+[sql]: https://en.wikipedia.org/wiki/SQL
 
 <!--
 
