@@ -94,7 +94,6 @@ Back End developers are involved in data storage, security, and other server-sid
 **ORM:** Object–Relational Mapping - programming technique for converting data between type systems using Object-Oriented Programming (OOP) languages.
 <br />
 
-
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][Node.js]
 [<img align="left" alt="java" width="26px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" />][java]
 [<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
@@ -102,7 +101,16 @@ Back End developers are involved in data storage, security, and other server-sid
 [<img align="left" alt="nosql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][nosql]
 [<img align="left" alt="orm" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][orm]
 
+<br />
 
+#### Databases:
+
+##### SQL Databases:
+
+**MySQL:** is an open-source relational database management system (RDMS).
+<br />
+
+[<img align="left" alt="mysql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/>][mysql]
 
 <br />
 
@@ -156,6 +164,10 @@ Back End developers are involved in data storage, security, and other server-sid
 [sql]: https://en.wikipedia.org/wiki/SQL
 [nosql]: https://en.wikipedia.org/wiki/NoSQL
 [orm]: https://en.wikipedia.org/wiki/Object-relational_mapping
+
+
+<!-- Databases -->
+[mysql]: https://en.wikipedia.org/wiki/MySQL
 
 
 <!-- Python Web Frameworks -->
