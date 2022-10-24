@@ -105,12 +105,15 @@ Back End developers are involved in data storage, security, and other server-sid
 
 #### Databases:
 
-##### SQL Databases:
+##### Relational / SQL Databases:
 
 **MySQL:** is an open-source relational database management system (RDMS).
 <br />
+**PostgreSQL:** is a powerful, open source object-relational database system with over 35 years of active development.
+<br />
 
 [<img align="left" alt="mysql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/>][mysql]
+[<img align="left" alt="postgresql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"/>][postgresql]
 
 <br />
 
@@ -168,7 +171,7 @@ Back End developers are involved in data storage, security, and other server-sid
 
 <!-- Databases -->
 [mysql]: https://en.wikipedia.org/wiki/MySQL
-
+[postgresql]: https://en.wikipedia.org/wiki/PostgreSQL
 
 <!-- Python Web Frameworks -->
 [flask]: https://flask.palletsprojects.com/en/2.2.x/
