@@ -115,11 +115,14 @@ Back End developers are involved in data storage, security, and other server-sid
 <br />
 **SQLite:** is the most used database engine in the world.
 <br />
+**IBM Db2:** is a family of data management products, including database servers, developed by IBM. 
+<br />
 
 [<img align="left" alt="mysql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/>][mysql]
 [<img align="left" alt="postgresql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"/>][postgresql]
 [<img align="left" alt="mariadb" width="26px" src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vertical_blue.svg"/>][mariadb]
 [<img align="left" alt="sqlite" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/220px-SQLite370.svg.png"/>][sqlite]
+[<img align="left" alt="ibmdb2" width="26px" src="https://d22e4d61ky6061.cloudfront.net/sites/default/files/IBM%20DB2_1.png"/>][ibmdb2]
 
 
 <br />
@@ -181,10 +184,16 @@ Back End developers are involved in data storage, security, and other server-sid
 
 
 <!-- Databases -->
+
+<!-- Relational / SQL Databases -->
 [mysql]: https://www.mysql.com/
 [postgresql]: https://www.postgresql.org/
 [mariadb]: https://mariadb.org/
 [sqlite]: https://sqlite.org/index.html
+[ibmdb2]: https://www.ibm.com/ie-en/products/db2
+
+<!-- Non Relational / NoSQL Databases -->
+
 
 <!-- Python Web Frameworks -->
 [flask]: https://flask.palletsprojects.com/en/2.2.x/
