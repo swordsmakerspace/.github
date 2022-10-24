@@ -111,9 +111,14 @@ Back End developers are involved in data storage, security, and other server-sid
 <br />
 **PostgreSQL:** is a powerful, open source object-relational database system with over 35 years of active development.
 <br />
+**MariaDB:** is a community-developed, commercially supported fork of the MySQL relational database management system.
+<br />
 
 [<img align="left" alt="mysql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/>][mysql]
 [<img align="left" alt="postgresql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"/>][postgresql]
+[<img align="left" alt="mariadb" width="26px" src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vertical_blue.svg"/>][mariadb]
+
+<br />
 
 <br />
 
@@ -129,6 +134,8 @@ Back End developers are involved in data storage, security, and other server-sid
 [<img align="left" alt="flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />][flask]
 [<img align="left" alt="django" width="26px" src="https://raw.githubusercontent.com/github/explore/7456fdff59816d37ef383a6c8f32a26ff7332db2/topics/django/django.png" />][django]
 [<img align="left" alt="tornado" width="26px" src="https://avatars.githubusercontent.com/u/7468980?s=200&v=4" />][tornado]
+
+<br />
 
 <br />
 
@@ -170,8 +177,9 @@ Back End developers are involved in data storage, security, and other server-sid
 
 
 <!-- Databases -->
-[mysql]: https://en.wikipedia.org/wiki/MySQL
-[postgresql]: https://en.wikipedia.org/wiki/PostgreSQL
+[mysql]: https://www.mysql.com/
+[postgresql]: https://www.postgresql.org/
+[mariadb]: https://mariadb.org/
 
 <!-- Python Web Frameworks -->
 [flask]: https://flask.palletsprojects.com/en/2.2.x/
