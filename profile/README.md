@@ -91,6 +91,8 @@ Back End developers are involved in data storage, security, and other server-sid
 <br />
 **NoSQL:** “not only SQL", is an approach to database design that enables the storage and querying of data outside the traditional structures found in relational databases.
 <br />
+**ORM:** Object–Relational Mapping - programming technique for converting data between type systems using Object-Oriented Programming (OOP) languages.
+<br />
 
 
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][Node.js]
@@ -98,6 +100,9 @@ Back End developers are involved in data storage, security, and other server-sid
 [<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
 [<img align="left" alt="sql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
 [<img align="left" alt="nosql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][nosql]
+[<img align="left" alt="orm" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][orm]
+
+
 
 <br />
 
@@ -150,6 +155,7 @@ Back End developers are involved in data storage, security, and other server-sid
 [python]: https://www.python.org/
 [sql]: https://en.wikipedia.org/wiki/SQL
 [nosql]: https://en.wikipedia.org/wiki/NoSQL
+[orm]: https://en.wikipedia.org/wiki/Object-relational_mapping
 
 
 <!-- Python Web Frameworks -->
