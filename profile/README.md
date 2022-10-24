@@ -88,11 +88,16 @@ Back End developers are involved in data storage, security, and other server-sid
 **Python:** is a high-level, general-purpose programming language.
 <br />
 **SQL:** is a standardized programming language that is used to manage relational databases and perform various operations on the data in them.
+<br />
+**NoSQL:** “not only SQL", is an approach to database design that enables the storage and querying of data outside the traditional structures found in relational databases.
+<br />
+
 
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][Node.js]
 [<img align="left" alt="java" width="26px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" />][java]
 [<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
 [<img align="left" alt="sql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
+[<img align="left" alt="nosql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][nosql]
 
 <br />
 
@@ -144,6 +149,8 @@ Back End developers are involved in data storage, security, and other server-sid
 [java]: https://www.java.com/en/
 [python]: https://www.python.org/
 [sql]: https://en.wikipedia.org/wiki/SQL
+[nosql]: https://en.wikipedia.org/wiki/NoSQL
+
 
 <!-- Python Web Frameworks -->
 [flask]: https://flask.palletsprojects.com/en/2.2.x/
