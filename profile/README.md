@@ -20,7 +20,7 @@ Before we code anything we need to track/publish our code changes.
 <br />
 **Jenkins:** is an open source automation server.
 <br />
-**CloudBees Jenkins Enterprise** is a commercial extension of open source Jenkins.
+**CloudBees Jenkins Enterprise:** is a commercial extension of open source Jenkins.
 <br />
 
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://github.com/git/git)
@@ -31,7 +31,7 @@ Before we code anything we need to track/publish our code changes.
 <br />
 
 
-### Software Containers:
+### Software Containers / Containerization:
 
 **Kubernetes:** is an open source system for automating deployment, scaling, and management of containerized applications.
 <br />
@@ -39,6 +39,15 @@ Before we code anything we need to track/publish our code changes.
 
 [<img align="left" alt="kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png"/>][kubernetes]
 [<img align="left" alt="docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"/>][docker]
+
+<br />
+
+### Web services / Cloud computing:
+
+**Amazon Web Services (AWS):** is a subsidiary of Amazon that provides on-demand cloud computing platforms and APIs to individuals, companies, and governments, on a metered pay-as-you-go basis.
+
+
+[<img align="left" alt="aws" width="26px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"/>][aws]
 
 <br />
 
@@ -176,6 +185,9 @@ Back End developers are involved in data storage, security, and other server-sid
 
 <br />
 
+<!-- Web services / Cloud computing -->
+[aws]: https://aws.amazon.com/
+
 <!-- Software Containers -->
 [kubernetes]: https://kubernetes.io/
 [docker]: https://www.docker.com/
@@ -215,7 +227,6 @@ Back End developers are involved in data storage, security, and other server-sid
 [sql]: https://en.wikipedia.org/wiki/SQL
 [nosql]: https://en.wikipedia.org/wiki/NoSQL
 [orm]: https://en.wikipedia.org/wiki/Object-relational_mapping
-
 
 <!-- Databases -->
 
