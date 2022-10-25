@@ -47,9 +47,12 @@ Before we code anything we need to track/publish our code changes.
 ### Web services / Cloud computing:
 
 **Amazon Web Services (AWS):** is a subsidiary of Amazon that provides on-demand cloud computing platforms and APIs to individuals, companies, and governments, on a metered pay-as-you-go basis.
-
+<br />
+**Google Cloud Platform:** is a suite of cloud computing services that runs on the same infrastructure that Google uses internally for its end-user products.
 
 [<img align="left" alt="aws" width="26px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"/>][aws]
+[<img align="left" alt="gcp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png"/>][gcp]
+
 
 <br />
 
@@ -189,7 +192,7 @@ Back End developers are involved in data storage, security, and other server-sid
 
 <!-- Web services / Cloud computing -->
 [aws]: https://aws.amazon.com/
-
+[gcp]: https://cloud.google.com/
 <!-- Software Containers -->
 [kubernetes]: https://kubernetes.io/
 [docker]: https://www.docker.com/
