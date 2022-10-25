@@ -132,11 +132,16 @@ Back End developers are involved in data storage, security, and other server-sid
 <br />
 **Apache CouchDB:** is an open-source document-oriented NoSQL database, implemented in Erlang.
 <br />
-**ArangoDB** is a multi-model database system since it supports three data models (graphs, JSON documents, key/value).
+**ArangoDB:** is a multi-model database system since it supports three data models (graphs, JSON documents, key/value).
+<br />
+**Neo4j:** is a graph database management system. Described by its developers as an ACID-compliant transactional database with native graph storage and processing.
+<br />
+
 
 [<img align="left" alt="mongodb" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"/>][mongodb]
 [<img align="left" alt="couchdb" width="26px" src="https://couchdb.apache.org/image/couch@2x.png"/>][couchdb]
 [<img align="left" alt="arangodb" width="26px" src="https://www.arangodb.com/wp-content/themes/cleanlab/images/logo_main.png"/>][arangodb]
+[<img align="left" alt="neo4j" width="26px" src="https://dist.neo4j.com/wp-content/uploads/20210423072428/neo4j-logo-2020-1.svg"/>][neo4j]
 
 
 <br />
@@ -208,6 +213,7 @@ Back End developers are involved in data storage, security, and other server-sid
 [mongodb]: https://www.mongodb.com/
 [couchdb]: https://couchdb.apache.org/
 [arangodb]: http://arangodb.com/
+[neo4j]: https://neo4j.com/
 
 <!-- Python Web Frameworks -->
 [flask]: https://flask.palletsprojects.com/en/2.2.x/
