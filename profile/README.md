@@ -4,7 +4,9 @@ We love Science, technology, engineering, and mathematics (STEM)
 
 We will try to teach key skills on (STEM). Read this book: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 
-## Continuous Integration/Delivery - (CI/CD) Tools:
+## Software Development & IT Operations / DevOps:
+
+### Continuous Integration/Delivery - (CI/CD) Tools:
 
 Before we code anything we need to track/publish our code changes. 
 
