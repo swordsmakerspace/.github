@@ -129,9 +129,12 @@ Back End developers are involved in data storage, security, and other server-sid
 ##### Non Relational / NoSQL Databases:
 
 **MongoDB:** is a source-available cross-platform document-oriented database program. 
-
+<br />
+**Apache CouchDB:** is an open-source document-oriented NoSQL database, implemented in Erlang.
+<br />
 
 [<img align="left" alt="mongodb" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"/>][mongodb]
+[<img align="left" alt="couchdb" width="26px" src="https://couchdb.apache.org/image/couch@2x.png"/>][couchdb]
 
 <br />
 
@@ -200,7 +203,7 @@ Back End developers are involved in data storage, security, and other server-sid
 
 <!-- Non Relational / NoSQL Databases -->
 [mongodb]: https://www.mongodb.com/
-
+[couchdb]: https://couchdb.apache.org/
 
 <!-- Python Web Frameworks -->
 [flask]: https://flask.palletsprojects.com/en/2.2.x/
