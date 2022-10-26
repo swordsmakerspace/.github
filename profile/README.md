@@ -56,6 +56,8 @@ Before we code anything we need to track/publish our code changes.
 **Go:** is a programming language built to resemble a simplified version of the C programming language.
 <br />
 **R:** is a programming language for statistical computing and graphics.
+<br />
+**Apache Groovy:** is a powerful, optionally typed and dynamic language, with static-typing and static compilation capabilities.
 
 [<img align="left" alt="c" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"/>][c]
 [<img align="left" alt="cpp" width="26px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png"/>][cpp]
@@ -66,6 +68,8 @@ Before we code anything we need to track/publish our code changes.
 [<img align="left" alt="perl" width="26px" src="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Perl_language_logo.svg/120px-Perl_language_logo.svg.png"/>][perl]
 [<img align="left" alt="go" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"/>][go]
 [<img align="left" alt="r" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"/>][r]
+[<img align="left" alt="groovy" width="26px" src="https://raw.githubusercontent.com/groovy/artwork/master/medium.png"/>][groovy]
+
 
 <br />
 
@@ -249,6 +253,7 @@ Back End developers are involved in data storage, security, and other server-sid
 [perl]: https://github.com/paulmcquad/Perl
 [go]: https://golang.org/
 [r]: https://www.r-project.org/
+[groovy]: https://groovy-lang.org/
 
 <!-- Software Containers -->
 [kubernetes]: https://kubernetes.io/
