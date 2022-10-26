@@ -38,7 +38,7 @@ Before we code anything we need to track/publish our code changes.
 
 <br />
 
-### Software Engineering:
+### Software Engineering / Coding:
 **C:** is a general purpose programming language that first appeared in 1972.
 <br/>
 **C++:** is an object-oriented programming language which gives a clear structure to programs and allows code to be reused.
