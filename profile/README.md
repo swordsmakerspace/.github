@@ -45,7 +45,7 @@ Before we code anything we need to track/publish our code changes.
 <br/>
 **C#:** or ("C sharp") is an object-oriented and type-safe programming language.
 <br/>
-**Scala:** is an object-oriented programming language which gives a clear structure to programs and allows code to be reused.
+**Scala:** is an object-oriented programming language.
 <br />
 **Cobol:** is a compiled English-like computer programming language designed for business use.
 <br />
