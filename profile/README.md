@@ -29,8 +29,8 @@ Before we code anything we need to track/publish our code changes.
 **Terraform:** is an open-source, infrastructure as code, software tool created by HashiCorp. Users define and provide data center infrastructure...
 <br />
 
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://github.com/git/git)
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][visualstudio]
 [<img align="left" alt="Jenkins" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" />](https://www.jenkins.io/)
 [<img align="left" alt="CloudBees" width="26px" src="https://avatars.githubusercontent.com/u/18043353?s=200&v=4" />](https://www.cloudbees.com/)
 [<img align="left" alt="circleci" width="26px" src="https://avatars.githubusercontent.com/u/1231870?s=200&v=4" />][circleci]
@@ -203,6 +203,8 @@ Back End developers are involved in data storage, security, and other server-sid
 <br />
 
 <!-- Continuous Integration/Delivery - (CI/CD) -->
+[git]: https://github.com/git/git
+[visualstudio]: https://code.visualstudio.com/
 [circleci]: https://circleci.com/
 [terraform]: https://www.terraform.io/
 
