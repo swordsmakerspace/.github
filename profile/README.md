@@ -39,10 +39,13 @@ Before we code anything we need to track/publish our code changes.
 <br />
 
 ### Software Engineering:
-
+**C:** is a general purpose programming language that first appeared in 1972.
+<br/>
 **C++:** is an object-oriented programming language which gives a clear structure to programs and allows code to be reused.
 
+[<img align="left" alt="c" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"/>][c]
 [<img align="left" alt="cpp" width="26px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png"/>][cpp]
+
 <br />
 
 ### Software Containers / Containerization:
@@ -216,7 +219,14 @@ Back End developers are involved in data storage, security, and other server-sid
 [terraform]: https://www.terraform.io/
 
 <!-- Software Engineering -->
+[c]: https://github.com/paulmcquad/C
 [cpp]: https://isocpp.org/ 
+[scala]: https://github.com/paulmcquad/Scala
+[cobol]: https://github.com/paulmcquad/Cobol
+[fortran]: https://github.com/paulmcquad/Fortran
+[perl]: https://github.com/paulmcquad/Perl
+[go]: https://golang.org/
+[r]: https://www.r-project.org/
 
 <!-- Software Containers -->
 [kubernetes]: https://kubernetes.io/
@@ -245,18 +255,6 @@ Back End developers are involved in data storage, security, and other server-sid
 [redux]: https://redux.js.org/
 [vue]: https://vuejs.org/
 [babel]: https://babeljs.io/
-
-
-[python]: https://github.com/paulmcquad/Python
-[scala]: https://github.com/paulmcquad/Scala
-[c]: https://github.com/paulmcquad/C
-[cobol]: https://github.com/paulmcquad/Cobol
-[fortran]: https://github.com/paulmcquad/Fortran
-[java]: https://github.com/paulmcquad/Java
-[perl]: https://github.com/paulmcquad/Perl
-[go]: https://golang.org/
-[r]: https://www.r-project.org/
-
 
 <!-- Backend Tools -->
 [Node.js]: https://nodejs.org/en/
