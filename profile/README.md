@@ -55,9 +55,8 @@ Before we code anything we need to track/publish our code changes.
 [<img align="left" alt="cpp" width="26px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png"/>][cpp]
 [<img align="left" alt="c#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"/>][c#]
 [<img align="left" alt="scala" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png"/>][scala]
-<!-- [<img align="left" alt="cobol" width="26px" src=""/>][cobol] -->
+[<img align="left" alt="cobol" width="26px" src="https://static.javatpoint.com/tutorial/cobol/images/cobol-tutorial.png"/>][cobol]
 [<img align="left" alt="fortran" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Fortran_logo.svg/1200px-Fortran_logo.svg.png"/>][fortran]
-
 
 
 <br />
