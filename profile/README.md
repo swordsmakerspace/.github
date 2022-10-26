@@ -36,9 +36,14 @@ Before we code anything we need to track/publish our code changes.
 [<img align="left" alt="circleci" width="26px" src="https://avatars.githubusercontent.com/u/1231870?s=200&v=4" />][circleci]
 [<img align="left" alt="terraform" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" />][terraform]
 
-
 <br />
 
+### Software Engineering:
+
+**C++:** is an object-oriented programming language which gives a clear structure to programs and allows code to be reused.
+
+[<img align="left" alt="cpp" width="26px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png"/>][cpp]
+<br />
 
 ### Software Containers / Containerization:
 
@@ -180,7 +185,6 @@ Back End developers are involved in data storage, security, and other server-sid
 [<img align="left" alt="arangodb" width="26px" src="https://www.arangodb.com/wp-content/themes/cleanlab/images/logo_main.png"/>][arangodb]
 [<img align="left" alt="neo4j" width="26px" src="https://dist.neo4j.com/wp-content/uploads/20210423072428/neo4j-logo-2020-1.svg"/>][neo4j]
 
-
 <br />
 
 #### Python web frameworks:
@@ -195,8 +199,6 @@ Back End developers are involved in data storage, security, and other server-sid
 [<img align="left" alt="flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />][flask]
 [<img align="left" alt="django" width="26px" src="https://raw.githubusercontent.com/github/explore/7456fdff59816d37ef383a6c8f32a26ff7332db2/topics/django/django.png" />][django]
 [<img align="left" alt="tornado" width="26px" src="https://avatars.githubusercontent.com/u/7468980?s=200&v=4" />][tornado]
-
-<br />
 
 <br />
 
@@ -268,6 +270,9 @@ Back End developers are involved in data storage, security, and other server-sid
 [flask]: https://flask.palletsprojects.com/en/2.2.x/
 [django]: https://www.djangoproject.com/
 [tornado]: https://www.tornadoweb.org/en/stable/
+
+<!-- Software Engineering -->
+[cpp]: https://isocpp.org/ 
 
 <!--
 
