@@ -89,6 +89,18 @@ A Front End Developer writes HTML5, CSS3 and JavaScript code to build blocks of 
 <br />
 **JQuery:** is a JavaScript library.
 <br />
+
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css3]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
+[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][sass]
+[<img align="left" alt="bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">][bootstrap]
+[<img align="left" alt="jquery" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" >][jquery]
+
+<br />
+
+#### TypeScript/JavaScript Frameworks:
+
 **TypeScript:** is a strongly typed programming language that builds on JavaScript, giving you better tooling at any scale.
 <br />
 **Angular:** is a TypeScript Framework.
@@ -102,13 +114,6 @@ A Front End Developer writes HTML5, CSS3 and JavaScript code to build blocks of 
 **Babel:** is a JavaScript compiler.
 
 
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css3]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][sass]
-[<img align="left" alt="bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">][bootstrap]
-
-[<img align="left" alt="jquery" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" >][jquery]
 [<img align="left" alt="typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">][typescript]
 [<img align="left" alt="angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png">][angular]
 [<img align="left" alt="react" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">][react]
@@ -223,23 +228,14 @@ Back End developers are involved in data storage, security, and other server-sid
 [azure]: https://azure.microsoft.com/en-us/
 
 
-<!-- Languages -->
+<!-- Front End Developer/ Web Developer: -->
 
 [html5]: https://github.com/swordsmakerspace/HTML
 [css3]: https://github.com/swordsmakerspace/CSS
 [js]: https://github.com/swordsmakerspace/javascript
-[python]: https://github.com/paulmcquad/Python
-[scala]: https://github.com/paulmcquad/Scala
-[c]: https://github.com/paulmcquad/C
-[cobol]: https://github.com/paulmcquad/Cobol
-[fortran]: https://github.com/paulmcquad/Fortran
-[java]: https://github.com/paulmcquad/Java
 [sass]: https://github.com/swordsmakerspace/SASS
-[jquery]: https://github.com/swordsmakerspace/JQuery
-[perl]: https://github.com/paulmcquad/Perl
-[go]: https://golang.org/
-[r]: https://www.r-project.org/
 [bootstrap]: https://getbootstrap.com/
+[jquery]: https://github.com/swordsmakerspace/JQuery
 
 <!-- TypeScript/JavaScript Frameworks -->
 
@@ -249,6 +245,18 @@ Back End developers are involved in data storage, security, and other server-sid
 [redux]: https://redux.js.org/
 [vue]: https://vuejs.org/
 [babel]: https://babeljs.io/
+
+
+[python]: https://github.com/paulmcquad/Python
+[scala]: https://github.com/paulmcquad/Scala
+[c]: https://github.com/paulmcquad/C
+[cobol]: https://github.com/paulmcquad/Cobol
+[fortran]: https://github.com/paulmcquad/Fortran
+[java]: https://github.com/paulmcquad/Java
+[perl]: https://github.com/paulmcquad/Perl
+[go]: https://golang.org/
+[r]: https://www.r-project.org/
+
 
 <!-- Backend Tools -->
 [Node.js]: https://nodejs.org/en/
