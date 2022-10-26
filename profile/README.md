@@ -42,9 +42,18 @@ Before we code anything we need to track/publish our code changes.
 **C:** is a general purpose programming language that first appeared in 1972.
 <br/>
 **C++:** is an object-oriented programming language which gives a clear structure to programs and allows code to be reused.
+<br/>
+**C#:** or ("C sharp") is an object-oriented and type-safe programming language.
+<br/>
+**Scala:** is an object-oriented programming language which gives a clear structure to programs and allows code to be reused.
+<br />
+
 
 [<img align="left" alt="c" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"/>][c]
 [<img align="left" alt="cpp" width="26px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png"/>][cpp]
+[<img align="left" alt="c#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"/>][c#]
+[<img align="left" alt="scala" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png"/>][scala]
+
 
 <br />
 
@@ -221,6 +230,7 @@ Back End developers are involved in data storage, security, and other server-sid
 <!-- Software Engineering -->
 [c]: https://github.com/paulmcquad/C
 [cpp]: https://isocpp.org/ 
+[c#]: https://en.wikipedia.org/wiki/C_Sharp_(programming_language)
 [scala]: https://github.com/paulmcquad/Scala
 [cobol]: https://github.com/paulmcquad/Cobol
 [fortran]: https://github.com/paulmcquad/Fortran
