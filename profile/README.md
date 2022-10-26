@@ -32,7 +32,7 @@ Before we code anything we need to track/publish our code changes.
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][visualstudio]
 [<img align="left" alt="Jenkins" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" />][jenkins]
-[<img align="left" alt="CloudBees" width="26px" src="https://avatars.githubusercontent.com/u/18043353?s=200&v=4" />](https://www.cloudbees.com/)
+[<img align="left" alt="CloudBees" width="26px" src="https://avatars.githubusercontent.com/u/18043353?s=200&v=4" />][cloudbees]
 [<img align="left" alt="circleci" width="26px" src="https://avatars.githubusercontent.com/u/1231870?s=200&v=4" />][circleci]
 [<img align="left" alt="terraform" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" />][terraform]
 
@@ -205,7 +205,8 @@ Back End developers are involved in data storage, security, and other server-sid
 <!-- Continuous Integration/Delivery - (CI/CD) -->
 [git]: https://github.com/git/git
 [visualstudio]: https://code.visualstudio.com/
-[jenkins]:https://www.jenkins.io/
+[jenkins]: https://www.jenkins.io/
+[cloudbees]: https://www.cloudbees.com/
 [circleci]: https://circleci.com/
 [terraform]: https://www.terraform.io/
 
