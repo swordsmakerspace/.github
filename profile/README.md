@@ -210,14 +210,18 @@ Back End developers are involved in data storage, security, and other server-sid
 [circleci]: https://circleci.com/
 [terraform]: https://www.terraform.io/
 
+<!-- Software Engineering -->
+[cpp]: https://isocpp.org/ 
+
+<!-- Software Containers -->
+[kubernetes]: https://kubernetes.io/
+[docker]: https://www.docker.com/
+
 <!-- Web services / Cloud computing -->
 [aws]: https://aws.amazon.com/
 [gcp]: https://cloud.google.com/
 [azure]: https://azure.microsoft.com/en-us/
 
-<!-- Software Containers -->
-[kubernetes]: https://kubernetes.io/
-[docker]: https://www.docker.com/
 
 <!-- Languages -->
 
@@ -227,7 +231,6 @@ Back End developers are involved in data storage, security, and other server-sid
 [python]: https://github.com/paulmcquad/Python
 [scala]: https://github.com/paulmcquad/Scala
 [c]: https://github.com/paulmcquad/C
-[cpp]: https://github.com/paulmcquad/CPP
 [cobol]: https://github.com/paulmcquad/Cobol
 [fortran]: https://github.com/paulmcquad/Fortran
 [java]: https://github.com/paulmcquad/Java
@@ -275,8 +278,6 @@ Back End developers are involved in data storage, security, and other server-sid
 [django]: https://www.djangoproject.com/
 [tornado]: https://www.tornadoweb.org/en/stable/
 
-<!-- Software Engineering -->
-[cpp]: https://isocpp.org/ 
 
 <!--
 
