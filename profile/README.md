@@ -251,8 +251,8 @@ Back End developers are involved in data storage, security, and other server-sid
 [c#]: https://en.wikipedia.org/wiki/C_Sharp_(programming_language)
 [scala]: https://github.com/paulmcquad/Scala
 [cobol]: https://github.com/swordsmakerspace/Cobol
-[fortran]: https://github.com/paulmcquad/Fortran
-[perl]: https://github.com/paulmcquad/Perl
+[fortran]: https://github.com/swordsmakerspace/Fortran
+[perl]: https://github.com/swordsmakerspace/Perl
 [go]: https://golang.org/
 [r]: https://www.r-project.org/
 [groovy]: https://groovy-lang.org/
