@@ -246,11 +246,11 @@ Back End developers are involved in data storage, security, and other server-sid
 [terraform]: https://www.terraform.io/
 
 <!-- Software Engineering -->
-[c]: https://github.com/paulmcquad/C
+[c]: https://github.com/swordsmakerspace/C
 [cpp]: https://isocpp.org/ 
 [c#]: https://en.wikipedia.org/wiki/C_Sharp_(programming_language)
 [scala]: https://github.com/paulmcquad/Scala
-[cobol]: https://github.com/paulmcquad/Cobol
+[cobol]: https://github.com/swordsmakerspace/Cobol
 [fortran]: https://github.com/paulmcquad/Fortran
 [perl]: https://github.com/paulmcquad/Perl
 [go]: https://golang.org/
