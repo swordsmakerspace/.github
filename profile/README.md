@@ -5,6 +5,8 @@ We love Science, technology, engineering, and mathematics (STEM)
 Join us on:
 
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/FroxOCYrv2f3yCxueZdIkY) 
+[<img align="left" alt="swordsmakerspace | Gmail" width="22px" src="https://simpleicons.org/icons/gmail.svg" />][email]
+
 
 We will try to teach key skills on (STEM). Read this book: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 
@@ -238,6 +240,9 @@ Back End developers are involved in data storage, security, and other server-sid
 [<img align="left" alt="tornado" width="26px" src="https://avatars.githubusercontent.com/u/7468980?s=200&v=4" />][tornado]
 
 <br />
+
+<!-- -->
+[email]: mailto:swordsmakerspace@gmail.com
 
 <!-- Continuous Integration/Delivery - (CI/CD) -->
 [git]: https://github.com/git/git
