@@ -7,7 +7,7 @@ Join us on:
 [<img align="left" alt="swordsmakerspace | Gmail" width="22px" src="https://simpleicons.org/icons/gmail.svg" />][email]
 [<img align="left" alt="discord | Discord" width="22px" src="https://simpleicons.org/icons/discord.svg" />][discord]
 [<img align="left" alt="whatsapp | Whatsapp" width="22px" src="https://simpleicons.org/icons/whatsapp.svg" />][Whatsapp]
-
+<br />
 <br />
 
 We will try to teach key skills on (STEM). Read this book: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
